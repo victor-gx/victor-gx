@@ -7,8 +7,6 @@
     <img src = "https://github-profile-trophy.vercel.app/?username=victor-gx&theme=onedark">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=victor-gx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="center">
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
