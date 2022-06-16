@@ -2,7 +2,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victor-gx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img align="right" alt="Coding" width="400" src="https://victor-gx.oss-cn-beijing.aliyuncs.com/background/16.webp">
+<!-- <img align="right" alt="Coding" width="400" src="https://victor-gx.oss-cn-beijing.aliyuncs.com/background/16.webp"> -->
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victor-gx&theme=dark&hide_border=)](https://git.io/streak-stats)
 
 <!--社交-->
 <!-- <h3 align="left">Connect with me:</h3>
