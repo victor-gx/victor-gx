@@ -26,7 +26,10 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=victor-gx&theme=redical">
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victor-gx&theme=dark&hide_border=)](https://git.io/streak-stats)
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-gx&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
+</p>
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victor-gx&theme=dark&hide_border=)](https://git.io/streak-stats) -->
 
 
 <!--社交-->
