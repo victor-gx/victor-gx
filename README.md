@@ -1,4 +1,7 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-gx&show_icons=true&theme=radical)
+<p align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api?username=victor-gx&show_icons=true&theme=radical">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=victor-gx&theme=radical">
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=victor-gx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
