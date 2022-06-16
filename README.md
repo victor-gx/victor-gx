@@ -22,6 +22,10 @@
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>    
 </p>
 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=victor-gx&theme=redical">
+</p>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victor-gx&theme=dark&hide_border=)](https://git.io/streak-stats)
 
 
