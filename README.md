@@ -3,22 +3,26 @@
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=victor-gx&theme=radical">
 </p>
 
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=victor-gx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- <img align="right" alt="Coding" width="400" src="https://victor-gx.oss-cn-beijing.aliyuncs.com/background/16.webp"> -->
+<p align="center">
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
+
+<p align="center">
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victor-gx&theme=dark&hide_border=)](https://git.io/streak-stats)
 
-<p align="centre">
-    <a target="_blank" rel="noopener noreferrer" href="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
-    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<p>
 
 <!--社交-->
 <!-- <h3 align="left">Connect with me:</h3>
