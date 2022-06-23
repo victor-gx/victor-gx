@@ -28,7 +28,7 @@
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-gx&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
 </p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victor-gx&theme=dark&hide_border=)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victor-gx&theme=dark&hide_border=)](https://git.io/streak-stats) -->
 
 <!--社交-->
 <!-- <h3 align="left">Connect with me:</h3>
