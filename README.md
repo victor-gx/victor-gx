@@ -10,7 +10,7 @@
 <p align="center">
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>    
-</p> -->
+</p>
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=victor-gx&theme=redical">
