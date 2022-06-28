@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>    
 </p>
 
-
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=victor-gx&theme=redical">
 </p>
