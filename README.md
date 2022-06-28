@@ -1,7 +1,7 @@
-<p align = "center">
+<!-- <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api?username=victor-gx&show_icons=true&theme=radical">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=victor-gx&theme=radical">
-</p>
+</p> -->
 
 <p align = "center">
     <img src = "https://github-profile-trophy.vercel.app/?username=victor-gx&theme=onedark">
