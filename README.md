@@ -15,7 +15,7 @@
 <p align="center">
 <h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<!--<h3 align="center">A passionate frontend developer from India</h3>-->
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
