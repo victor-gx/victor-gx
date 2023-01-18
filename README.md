@@ -13,7 +13,7 @@
 </p>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victor-gx&theme=dark&hide_border=)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victor-gx&theme=dark&hide_border=)](https://git.io/streak-stats)-->
 
 
 <p align="center">
